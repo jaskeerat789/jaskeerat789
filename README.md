@@ -8,8 +8,8 @@ I am Jaskeerat Singh, a pre-final year engineering student. Constantly trying to
 <img align='center' src='https://media1.tenor.com/images/13459a91646aa0c99229327a5d4d2aa7/tenor.gif?itemid=4157976' width='200"'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaskeerat789" alt="Jaskeerat Singh" /> </p>
 
-- 🔭 I’m currently working on - Upmesh.io, Rust
-- 🌱 I’m currently learning - Rust, GraphQL, Kubernetes
+- 🔭 I’m currently working on - Upmesh.io, Peppercontent.io
+- 🌱 I’m currently learning - Rust, GraphQL, Kubernetes,WASM
 - 👯 I’m looking to collaborate on - GraphQL+React,Rust Projects 
 - 🤔 I’m looking for help with - Redis with GraphQL for Pub/Sub
 - 💬 Ask me about - Anything. If I know, I will let you know. If I don't know, let's figure it out together!
